@@ -161,11 +161,3 @@ motto: "Building projects, solving problems, and constantly learning ✨"
 *"Building projects, solving problems, and constantly learning."* ✨
 
 </div>
-
-git clone https://github.com/chathuli/chathuli.git
-# Copy your README.md into the cloned folder
-cd chathuli
-git add README.md
-git commit -m "Update profile README"
-git push
-
