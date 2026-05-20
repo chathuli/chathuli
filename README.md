@@ -24,7 +24,7 @@
 ```yaml
 name:       "Chathuli Amaraweera"
 university: "University of Plymouth  ️"
-degree:     "BSc Computer Science"
+degree:     "BSc (Hons) Computer Science"
 status:     "Undergraduate Student"
 
 interests:
