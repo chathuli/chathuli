@@ -5,10 +5,10 @@
 <!-- Typing Animation -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+Plymouth+University)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+Plymouth+Uni)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00d4ff&style=flat)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=00d4ff)
+![Profile Views](https://komarev.com/ghpvc/?username=chathuli&label=Profile+Views&color=00d4ff&style=flat)
+![Followers](https://img.shields.io/github/followers/chathuli?label=Followers&style=flat&color=00d4ff)
 
 </div>
 
