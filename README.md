@@ -122,25 +122,17 @@ motto: "Building projects, solving problems, and constantly learning ✨"
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/chathuli/programming-c">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chathuli&repo=programming-c&theme=midnight-purple&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/chathuli/Node-cloud-meet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chathuli&repo=Node-cloud-meet&theme=midnight-purple&hide_border=true" />
-</a>
-
-<a href="https://github.com/chathuli/CS105.3DATABASE-MANAGEMENT-SYSTEMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chathuli&repo=CS105.3DATABASE-MANAGEMENT-SYSTEMS&theme=midnight-purple&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/chathuli/C-_lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chathuli&repo=C-_lab&theme=midnight-purple&hide_border=true" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/REPO_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_3&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
