@@ -3,9 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Chathuli%20Amaraweera&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20%40%20University%20of%20Plymouth%20🎓&descAlignY=58&descSize=17" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Computer+Science+Undergraduate+👩‍💻;Software+Development+Enthusiast+🚀;AI+%26+Web+Technologies+Explorer+🌐;Always+Building%2C+Always+Learning+📚" alt="Typing SVG" />
-</a>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate+%40+Ply)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00d4ff&style=flat)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=00d4ff)
+
+</div>
 
 <br/>
 
@@ -75,6 +80,15 @@ motto: "Building projects, solving problems, and constantly learning ✨"
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 
 ### 🤖 Machine Learning & Data
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
