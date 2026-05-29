@@ -12,16 +12,6 @@
 
 </div>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=chathuli&style=for-the-badge&color=a78bfa&labelColor=1a1a2e" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/chathuli?tab=followers">
-  <img src="https://img.shields.io/github/followers/chathuli?style=for-the-badge&color=a78bfa&labelColor=1a1a2e" alt="Followers"/>
-</a>
-
-</div>
-
 ---
 
 ## 👩‍💻 About Me
