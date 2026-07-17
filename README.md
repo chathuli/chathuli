@@ -123,13 +123,13 @@ motto: "Building projects, solving problems, and constantly learning ✨"
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_1">
+  <a href="https://github.com/chathuli/REPO_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chathuli/AI-Based-Breast-Cancer-Prediction-and-Visualization-Dashboard=REPO_1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_2">
+  <a href="https://github.com/chathuli/REPO_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_3">
+  <a href="https://github.com/chathuli/REPO_3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_3&theme=tokyonight" />
   </a>
 </p>
