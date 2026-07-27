@@ -4,6 +4,14 @@
 
 ![Typing SVG](https://capsule-render.vercel.app/api?type=waving&color=0:3b4d9e,100:8a4a9e&height=180&section=header&text=Chathuli%20Amaraweera&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=QA%20Engineer%20%7C%20AI%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=18&descColor=FFFFFF)
 
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chathuli+%F0%9F%91%8B;Computer+Science+Graduate+%40+Plymouth+Uni;Artificial Intelligence+%26+Machine Learning%F0%9F%94%90;%F0%9F%A4%96" alt="Typing SVG" />
+</a>
+
+<br/>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=chathuli&label=Profile+Views&color=00d4ff&style=flat)
 ![Followers](https://img.shields.io/github/followers/chathuli?label=Followers&style=flat&color=00d4ff)
 
