@@ -26,7 +26,7 @@
 name:       "Chathuli Amaraweera"
 university: "University of Plymouth  ️"
 degree:     "BSc (Hons) Computer Science"
-status:     "Undergraduate Student"
+status:     "Second Class Honours (Upper Division)"
 
 interests:
   - "Software Development 💻"
