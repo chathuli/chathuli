@@ -6,14 +6,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chathuli+%F0%9F%91%8B;Computer+Science+Graduate+%40+Plymouth+University;Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Smart+AI+Systems+%F0%9F%94%90;QA+Engineering+Software+Testing+Python+%F0%9F%A4%96" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chathuli+%F0%9F%91%8B;Computer+Science+Graduate+%40+Plymouth+Uni;Artificial Intelligence+%26+Machine Learning%F0%9F%94%90;%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chathuli+%F0%9F%91%8B;Computer+Science+Graduate+%40+Plymouth+Uni;Artificial+Intelligence+%26+Machine+Learning;Building+Smart+AI+Systems+%F0%9F%94%90;QA+Engineering+Software+Testing+Python+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
